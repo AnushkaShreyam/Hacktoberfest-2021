@@ -1,6 +1,6 @@
 # Hacktoberfest-2021
 
-XgBoost Algorithm Open Source Contribution 
+Algorithm Open Source Contribution 
 
 It is a decision-tree-based ensemble Machine Learning algorithm 
 that uses a gradient boosting framework. 
