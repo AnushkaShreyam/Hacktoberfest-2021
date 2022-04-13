@@ -1,4 +1,4 @@
-# Hacktoberfest-2021
+# Algorithm
 
 Algorithm Open Source Contribution 
 
